@@ -1,7 +1,8 @@
 div{
     background-color: blue; 
-    color: rgb(243, 240, 245);
+    color: rgba(218, 70, 1, 0.925);
     border: 2px dotted gold;
-    text-align: justify;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
+p{text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
