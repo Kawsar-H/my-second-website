@@ -1,5 +1,7 @@
 div{
     background-color: blue; 
-    color: blueviolet;
+    color: rgb(243, 240, 245);
     border: 2px dotted gold;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
